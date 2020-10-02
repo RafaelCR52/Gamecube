@@ -1,3 +1,3 @@
 # Gamecube
 
-##Install Sass and link css
+## Install Sass and link css
